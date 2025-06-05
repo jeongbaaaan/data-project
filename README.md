@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # iOS App Store 데이터 분석
 
 Kaggle에서 제공하는 Apple App Store 데이터를 활용해 EDA를 수행한 프로젝트입니다.
@@ -9,8 +9,5 @@ https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
 ## 프로젝트 구성
 - `download_data.py`: 데이터 다운로드 스크립트
 - `.gitignore`: 민감한 파일 제외 설정
-=======
-# data-project
 
-오오 이것이 바로
->>>>>>> aed597d51f6f4326786494eff1f6fcc8bf156712
+# data-project
